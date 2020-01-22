@@ -1,1 +1,1 @@
-Great Recession(2008), Unemployment Rate and Housing Price Index inverse correlation
+The Global Financial Crisis, Unemployment Rate and Housing Price Index inverse correlation

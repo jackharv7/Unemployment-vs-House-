@@ -1,5 +1,5 @@
 # Global Financial Crisis
-## Contributors: Jack Harvey
+### Jack Harvey
 
 # Overview
 This file uses data from the USDA ERS and the Federal Housing Finance Agency to identfiy the civilian labor force, unemployment rates, birth rates, and median housing prices. This data is loaded and analyzed through the use of python to clean the data and create visualizations to identify the trends in the data found. 

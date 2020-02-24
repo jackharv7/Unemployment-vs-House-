@@ -16,10 +16,10 @@ This file uses data from the USDA ERS and the Federal Housing Finance Agency to 
 The goal of our project was to compare the two states with the smallest and largest civilian labor forces to determine whether the Global Financial Crisis impacted them in similar ways. 
 This first visualization groups the states by the size of their civilian labor force (< 1 million) and compares this to their unenployment rates.
 
-![](Data/1m_CLF_unemp.png)
+![](/Data/1m_CLF_unemp.png)
 This next visualization groups states by their size (> 5 million) and compares their unemployment rates. 
 
-![](Data/5m_CLF_unemp.png)
+![](/Data/5m_CLF_unemp.png)
 
 ## Similar Trends in Data
 

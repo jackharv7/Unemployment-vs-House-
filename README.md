@@ -25,8 +25,6 @@ This next visualization groups states by their size (> 5 million) and compares t
 
 We were then able to identify that both California and Rhode Island were in similar categories in regards to the median household price and found this interesting. 
 
-![](Housing%20Data/Data/unemp_by_house_price_5m.png)
-
 From here we decided to compare their unemployment rates to their median household prices throughout the years to determine whether or not they were similar.
 
 ![](Housing%20Data/Data/unemp_house_price_rhode_island.png)

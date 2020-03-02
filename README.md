@@ -33,6 +33,8 @@ From here we decided to compare their unemployment rates to their median househo
 
 ![](Housing%20Data/Data/unemp_by_year_RI.png)
 
+![](Housing%20Data/Data/unemp_by_year_cali.png)
+
 From this it can be said that throughout the years both states followed similar trends in response to the Global Financial Crisis and that the size of the state does not necessarily play a role in how the global financial cris effected each states. But it can be said that the cost of living in each state does play a role in the response to the Recession in 2007.
 
 ![](Housing%20Data/Data/unemp_by_house_price_5m.png)
